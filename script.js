@@ -73,4 +73,4 @@ function getRandomChars(characters) {
   return characters[index];
 }
 
-
+//checking
